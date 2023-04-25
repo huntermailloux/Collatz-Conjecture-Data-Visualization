@@ -1,4 +1,4 @@
-/******************************************************** INSTALLATION *******************************************************\
+/**************************************************** INSTALLATION ***************************************************\
 
 For installing and getting the program to work, you'll need these 4 things:
 	Updated version of Python3 (I used 3.10)
@@ -11,7 +11,7 @@ For installing and getting the program to work, you'll need these 4 things:
 Once you have all of that, you should be able to run the Python problem with no problem!
 
 
-/******************************************************** MONOLOGUE ***********************************************************\
+/**************************************************** MONOLOGUE *******************************************************\
 
 
 I've been wanting to do a data visualization of the Collatz Conjecture for quite some time now, so this is my first go at it!
